@@ -2,6 +2,6 @@
 
 HTML - CSS -JS violence
 
-![] (login_form_java_screen.gif)
+![](login_form_java_screen.gif)
 
 
