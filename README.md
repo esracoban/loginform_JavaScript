@@ -1,6 +1,6 @@
 # loginform_JavaScript
 
-HTML - CSS -JS violence
+It is a user input interface powered by effects using HTML CSS.
 
 ![](login_form_java_screen.gif)
 
